@@ -52,7 +52,6 @@ console.log(resultado);
 6
 function Cartao({ titulo, descricao }) {
   return (
-  
      <h3>{titulo}</h3>
      <p>{descricao}</p>
   
